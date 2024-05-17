@@ -53,7 +53,6 @@ const Projectpage = ({ params }: { params: { projectId: string } }) => {
     return (
       <Error error={"Some thing went wrong"} reset={() => router.refresh()} />
       // redirect("/error")
-      // <div>x</div>
     );
   // console.log(data);
   return (
