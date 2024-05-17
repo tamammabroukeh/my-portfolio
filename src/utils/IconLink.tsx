@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { HTMLAttributeAnchorTarget, ReactNode } from "react";
-
 export default function IconLink({
     children,
     href,
@@ -15,16 +14,10 @@ export default function IconLink({
     // const NavLink = motion(Link);
     return (
         <Link
-            // variants={{
-            //     hidden: { scale: 0 },
-            //     show: { scale: 1 },
-            // }}
             href={href}
             target={target}
             className="text-foreground rounded-full flex items-center justify-center"
             aria-label={title}
-            // prefetch={false}
-            // scroll={false}
         >
             <span className="relative w-4 h-4 hover:text-accent">
                 {children}
