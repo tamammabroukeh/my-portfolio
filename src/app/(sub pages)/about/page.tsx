@@ -22,7 +22,7 @@ export default function About() {
           <h1 className="font-bold  text-6xl xs:text-7xl sm:text-8xl  lg:text-9xl text-accent">
             {NAME}
           </h1>
-          <p className="font-light text-3xl text-foreground ">
+          <p className="font-light text-9xl text-foreground ">
             Front-End Next.js & React.js developer
           </p>
         </div>
