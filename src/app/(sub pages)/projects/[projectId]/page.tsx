@@ -9,7 +9,7 @@ import Date from "@/utils/Date";
 import Links from "@/utils/Links";
 import Typography from "@/utils/Typography";
 import type { Metadata, ResolvingMetadata } from "next";
-import Error from "@/app/error";
+// import Error from "@/app/error";
 type Props = {
   params: { projectId: string };
   searchParams: { [key: string]: string | string[] | undefined };
@@ -48,12 +48,9 @@ export async function generateMetadata(
 const Projectpage = ({ params }: { params: { projectId: string } }) => {
   const { projectId } = params;
   const data = projectsData.find((project) => project.id === +projectId);
-  const router = useRouter();
-  if (data === undefined)
-    return (
-      <Error error={"Some thing went wrong"} reset={() => router.refresh()} />
-      // redirect("/error")
-    );
+  //   const router = useRouter();
+  if (data === undefined) return redirect("/error");
+  //   <Error error={"Some thing went wrong"} reset={() => router.refresh()} />
   // console.log(data);
   return (
     <div className="flex flex-col gap-y-7">
