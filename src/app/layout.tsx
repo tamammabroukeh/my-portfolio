@@ -9,7 +9,7 @@ const inter = Inter({
   variable: "--font-inter",
 });
 export const metadata: Metadata = {
-  metadataBase: new URL("https://3d-my-portfolio.vercel.app/"),
+  metadataBase: new URL("https://tammammabroukeh.vercel.app/"),
   title: {
     default: "My Portfolio",
     template: "%s | Tammam Mabroukeh",
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     title: "My Portfolio",
     description:
       "Software Engineer, always looking for new challenges and knowledge, I have the ability to quickly learn new stuff. I code in JavaScript, especially ReactJS and NextJS.",
-    url: "https://3d-my-portfolio.vercel.app/",
+    url: "https://tammammabroukeh.vercel.app/",
     images: [
       {
         url: "/images/my-portfolio.jpg",
