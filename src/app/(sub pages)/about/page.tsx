@@ -19,10 +19,10 @@ export default function About() {
       <div className="w-full h-3/5 xs:h-3/4 sm:h-screen absolute top-1/2 -translate-y-1/2 left-0 z-10"></div>
       <div className="relative w-full h-screen flex flex-col items-center justify-center">
         <div className="absolute flex flex-col items-center text-center top-1/2 sm:top-[60%] left-1/2 -translate-y-1/2 -translate-x-1/2">
-          <h1 className="font-bold  text-5xl xs:text-7xl sm:text-8xl  lg:text-9xl text-accent">
+          <h1 className="font-bold text-5xl xs:text-7xl sm:text-8xl  lg:text-9xl text-accent">
             {NAME}
           </h1>
-          <p className="font-light text-9xl text-foreground ">
+          <p className="font-light text-3xl md:text-4xl text-foreground ">
             Front-End Next.js & React.js developer
           </p>
         </div>

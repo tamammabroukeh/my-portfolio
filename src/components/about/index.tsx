@@ -7,7 +7,7 @@ import Sub from "@/utils/Sub";
 import { NUMBER_OF_CLIENTS, YEARS_OF_EXPERIENCE } from "@/data/personal";
 const AboutDetails = () => {
   return (
-    <section className="py-20 w-full">
+    <section className="py-15 w-full">
       <div className="grid grid-cols-12 gap-4 xs:gap-6  md:gap-8 w-full">
         <ItemLayout
           className={
