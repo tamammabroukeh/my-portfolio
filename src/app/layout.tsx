@@ -1,7 +1,6 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
 import clsx from "clsx";
-import FireFliesBackground from "../components/FireFliesBackground";
 import { IChildren } from "@/interfaces/interfaces";
 import { Metadata } from "next";
 const inter = Inter({
@@ -46,8 +45,6 @@ export default function RootLayout({ children }: IChildren) {
         )}
       >
         {children}
-        {/* <FireFliesBackground /> */}
-        {/* <div id="my-modal" /> */}
       </body>
     </html>
   );

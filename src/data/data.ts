@@ -75,9 +75,35 @@ import {
   NewHome5,
   NewHome6,
   NewHome7,
+  TSP1,
+  TSP2,
+  TSP3,
 } from "@/assets";
 // let uuid = self.crypto.randomUUID();
 export const projectsData: IProjectData[] = [
+  {
+    id: 12,
+    images: [TSP1, TSP2, TSP3],
+    name: "TSP(Travel Salesman Problem) Website",
+    description:
+      "This project is about the traveling salesman algorithm. The project takes income from the user, representing the capacity of the trucks that will distribute the items and the value of each item, in addition to the city to which the item will go, as well as the distance between all cities, and then the algorithm distributes the trucks to the goods in the optimal way.",
+    date: new Date("2024-6-20"),
+    skills: [
+      "Next JS",
+      "Flask",
+      "Rest api",
+      "TypeScript",
+      "TailwindCSS",
+      "D3",
+      "Framer Motion",
+      "react-graph-vis",
+      "react-hook-form",
+    ],
+    links: {
+      demo: "https://bia-tsp-project.vercel.app/",
+      repo: "https://github.com/tamammabroukeh/BIA-Project",
+    },
+  },
   {
     id: 11,
     images: [Netflix, Netflix1, Netflix2, Netflix3],

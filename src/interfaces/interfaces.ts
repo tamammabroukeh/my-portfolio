@@ -112,4 +112,9 @@ export type SKILLS =
   | "Chart.js"
   | "day.js"
   | "React Google Charts"
-  | "Google Maps";
+  | "Google Maps"
+  | "Flask"
+  | "Rest api"
+  | "D3"
+  | "react-graph-vis"
+  | "react-hook-form";
