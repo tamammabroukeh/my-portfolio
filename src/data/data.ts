@@ -26,6 +26,7 @@ import {
   clerk,
   formik,
   npm,
+  NextUI,
 } from "@/assets";
 
 // projects
@@ -386,14 +387,26 @@ export const SkillData: ISkill[] = [
     height: 80,
   },
   {
-    name: "Vite",
-    Image: vite,
+    name: "React JS",
+    Image: React,
     width: 80,
     height: 80,
   },
   {
-    name: "React JS",
-    Image: React,
+    name: "Next JS",
+    Image: Next,
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "Next UI",
+    Image: NextUI,
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "Vite",
+    Image: vite,
     width: 80,
     height: 80,
   },
@@ -406,12 +419,6 @@ export const SkillData: ISkill[] = [
   {
     name: "React Query",
     Image: reactQuery,
-    width: 80,
-    height: 80,
-  },
-  {
-    name: "Next JS",
-    Image: Next,
     width: 80,
     height: 80,
   },

@@ -117,4 +117,5 @@ export type SKILLS =
   | "Rest api"
   | "D3"
   | "react-graph-vis"
-  | "react-hook-form";
+  | "react-hook-form"
+  | "Next UI";

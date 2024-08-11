@@ -30,6 +30,7 @@ import nextAuth from "@/assets/icons/next-auth.png";
 import clerk from "@/assets/icons/clerk.svg";
 import formik from "@/assets/icons/formik.svg";
 import npm from "@/assets/icons/npm.svg";
+import NextUI from "@/assets/icons/nextui.svg";
 // Skills
 export {
   Html,
@@ -57,6 +58,7 @@ export {
   clerk,
   formik,
   npm,
+  NextUI,
 };
 // Projects
 // Snap-Up
