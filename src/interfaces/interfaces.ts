@@ -120,4 +120,5 @@ export type SKILLS =
   | "react-hook-form"
   | "Next UI"
   | "Node JS"
-  | "Express JS";
+  | "Express JS"
+  | "Mongo DB";

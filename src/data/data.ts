@@ -29,6 +29,7 @@ import {
   NextUI,
   Nodejs,
   Expressjs,
+  MongoDB,
 } from "@/assets";
 
 // projects
@@ -409,6 +410,12 @@ export const SkillData: ISkill[] = [
   {
     name: "Express JS",
     Image: Expressjs,
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "Mongo DB",
+    Image: MongoDB,
     width: 80,
     height: 80,
   },
