@@ -31,6 +31,8 @@ import clerk from "@/assets/icons/clerk.svg";
 import formik from "@/assets/icons/formik.svg";
 import npm from "@/assets/icons/npm.svg";
 import NextUI from "@/assets/icons/nextui.svg";
+import Nodejs from "@/assets/icons/nodejs.svg";
+import Expressjs from "@/assets/icons/expressjs.svg";
 // Skills
 export {
   Html,
@@ -59,6 +61,8 @@ export {
   formik,
   npm,
   NextUI,
+  Nodejs,
+  Expressjs,
 };
 // Projects
 // Snap-Up

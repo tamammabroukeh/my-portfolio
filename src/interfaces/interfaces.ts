@@ -118,4 +118,6 @@ export type SKILLS =
   | "D3"
   | "react-graph-vis"
   | "react-hook-form"
-  | "Next UI";
+  | "Next UI"
+  | "Node JS"
+  | "Express JS";

@@ -27,6 +27,8 @@ import {
   formik,
   npm,
   NextUI,
+  Nodejs,
+  Expressjs,
 } from "@/assets";
 
 // projects
@@ -395,6 +397,18 @@ export const SkillData: ISkill[] = [
   {
     name: "Next JS",
     Image: Next,
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "Node JS",
+    Image: Nodejs,
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "Express JS",
+    Image: Expressjs,
     width: 80,
     height: 80,
   },
