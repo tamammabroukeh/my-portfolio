@@ -82,6 +82,12 @@ import {
   TSP1,
   TSP2,
   TSP3,
+  LandingPage1,
+  LandingPage2,
+  LandingPage3,
+  LandingPage4,
+  LandingPage5,
+  LandingPage6,
 } from "@/assets";
 // let uuid = self.crypto.randomUUID();
 export const projectsData: IProjectData[] = [
@@ -160,6 +166,30 @@ export const projectsData: IProjectData[] = [
     ],
     links: {
       demo: "https://coponice.com/",
+    },
+  },
+  {
+    id: 13,
+    images: [
+      LandingPage1,
+      LandingPage2,
+      LandingPage3,
+      LandingPage4,
+      LandingPage5,
+      LandingPage6,
+    ],
+    name: "Landing Page",
+    description: `Simple Landing Page with a lot of features and concepts. I built it with React.js and typescript with animation.`,
+    date: new Date("2024-05-15"),
+    skills: [
+      "React JS",
+      "TypeScript",
+      "Swiper.js",
+      "Framer Motion",
+      "TailwindCSS",
+    ],
+    links: {
+      demo: "https://landing-page-with-react-typescript.vercel.app/",
     },
   },
   {

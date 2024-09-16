@@ -129,6 +129,15 @@ import NewHome7 from "/public/images/projects/NewHome/newhome7.jpg";
 import TSP1 from "/public/images/projects/TSP/tsp-project-1.jpg";
 import TSP2 from "/public/images/projects/TSP/tsp-project-2.jpg";
 import TSP3 from "/public/images/projects/TSP/tsp-project-3.jpg";
+
+// Landing page
+import LandingPage1 from "/public/images/projects/Landing_Page/LandingPage1.png";
+import LandingPage2 from "/public/images/projects/Landing_Page/LandingPage2.png";
+import LandingPage3 from "/public/images/projects/Landing_Page/LandingPage3.png";
+import LandingPage4 from "/public/images/projects/Landing_Page/LandingPage4.png";
+import LandingPage5 from "/public/images/projects/Landing_Page/LandingPage5.png";
+import LandingPage6 from "/public/images/projects/Landing_Page/LandingPage6.png";
+
 export {
   SnapUp,
   SnapUp1,
@@ -139,6 +148,12 @@ export {
   Dashboard2,
   Dashboard3,
   Portifolio,
+  LandingPage1,
+  LandingPage2,
+  LandingPage3,
+  LandingPage4,
+  LandingPage5,
+  LandingPage6,
   Crypto,
   Crypto1,
   Crypto2,
