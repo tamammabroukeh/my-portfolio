@@ -12,7 +12,6 @@ const useContactForm = () => {
 
   const sendEmail = async (params: ITemplateForm) => {
     const toastId = toast.loading("Sending your message, please wait...");
-
     toast.info(
       "Form submissions are demo-only here. Please checkout the final code repo to enable it. If you want to connect you can reach out to me via tamammb367@gmail.com.",
       {
