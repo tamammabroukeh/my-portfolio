@@ -131,7 +131,7 @@ import TSP2 from "/public/images/projects/TSP/tsp-project-2.jpg";
 import TSP3 from "/public/images/projects/TSP/tsp-project-3.jpg";
 
 // Landing page
-import LandingPage1 from "../../public/images/projects/Landing_Page/LandingPage1.png";
+import LandingPage1 from "/public/images/projects/Landing_Page/LandingPage1.svg";
 import LandingPage2 from "/public/images/projects/Landing_Page/LandingPage2.png";
 import LandingPage3 from "/public/images/projects/Landing_Page/LandingPage3.png";
 import LandingPage4 from "/public/images/projects/Landing_Page/LandingPage4.png";
