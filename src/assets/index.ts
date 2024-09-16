@@ -131,12 +131,12 @@ import TSP2 from "/public/images/projects/TSP/tsp-project-2.jpg";
 import TSP3 from "/public/images/projects/TSP/tsp-project-3.jpg";
 
 // Landing page
-import LandingPage1 from "/public/images/projects/Landing_Page/LandingPage1.svg";
-import LandingPage2 from "/public/images/projects/Landing_Page/LandingPage2.svg";
-import LandingPage3 from "/public/images/projects/Landing_Page/LandingPage3.svg";
-import LandingPage4 from "/public/images/projects/Landing_Page/LandingPage4.svg";
-import LandingPage5 from "/public/images/projects/Landing_Page/LandingPage5.svg";
-import LandingPage6 from "/public/images/projects/Landing_Page/LandingPage6.svg";
+import LandingPage1 from "/public/images/projects/Landing_Page/LandingPage1.jpg";
+import LandingPage2 from "/public/images/projects/Landing_Page/LandingPage2.jpg";
+import LandingPage3 from "/public/images/projects/Landing_Page/LandingPage3.jpg";
+import LandingPage4 from "/public/images/projects/Landing_Page/LandingPage4.jpg";
+import LandingPage5 from "/public/images/projects/Landing_Page/LandingPage5.jpg";
+import LandingPage6 from "/public/images/projects/Landing_Page/LandingPage6.jpg";
 
 export {
   SnapUp,
