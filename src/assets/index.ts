@@ -138,6 +138,7 @@ import LandingPage4 from "/public/images/projects/Landing_Page/LandingPage4.jpg"
 import LandingPage5 from "/public/images/projects/Landing_Page/LandingPage5.jpg";
 import LandingPage6 from "/public/images/projects/Landing_Page/LandingPage6.jpg";
 
+
 export {
   SnapUp,
   SnapUp1,
