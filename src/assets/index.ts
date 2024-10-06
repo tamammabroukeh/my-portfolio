@@ -138,7 +138,7 @@ import LandingPage4 from "/public/images/projects/LandingPage/LandingPage4.jpg";
 import LandingPage5 from "/public/images/projects/LandingPage/LandingPage5.jpg";
 import LandingPage6 from "/public/images/projects/LandingPage/LandingPage6.jpg";
 // scripts ocean
-import ScriptsOcean1 from "/public/images/projects/ScriptsOcean/ScriptsOcean1.jpg";
+import ScriptsOcean1 from "/public/images/projects/ScriptsOcean/ScriptsOcean1.png";
 import ScriptsOcean2 from "/public/images/projects/ScriptsOcean/ScriptsOcean2.jpg";
 import ScriptsOcean3 from "/public/images/projects/ScriptsOcean/ScriptsOcean3.jpg";
 import ScriptsOcean4 from "/public/images/projects/ScriptsOcean/ScriptsOcean4.jpg";
