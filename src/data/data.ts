@@ -97,7 +97,6 @@ import {
   ScriptsOcean7,
   ScriptsOcean8,
 } from "@/assets";
-// let uuid = self.crypto.randomUUID();
 export const projectsData: IProjectData[] = [
   {
     id: 14,
