@@ -139,13 +139,13 @@ import LandingPage5 from "/public/images/projects/LandingPage/LandingPage5.jpg";
 import LandingPage6 from "/public/images/projects/LandingPage/LandingPage6.jpg";
 // scripts ocean
 import ScriptsOcean1 from "/public/images/projects/ScriptsOcean/ScriptsOcean1.png";
-import ScriptsOcean2 from "/public/images/projects/ScriptsOcean/ScriptsOcean2.jpg";
-import ScriptsOcean3 from "/public/images/projects/ScriptsOcean/ScriptsOcean3.jpg";
-import ScriptsOcean4 from "/public/images/projects/ScriptsOcean/ScriptsOcean4.jpg";
-import ScriptsOcean5 from "/public/images/projects/ScriptsOcean/ScriptsOcean5.jpg";
-import ScriptsOcean6 from "/public/images/projects/ScriptsOcean/ScriptsOcean6.jpg";
-import ScriptsOcean7 from "/public/images/projects/ScriptsOcean/ScriptsOcean7.jpg";
-import ScriptsOcean8 from "/public/images/projects/ScriptsOcean/ScriptsOcean8.jpg";
+import ScriptsOcean2 from "/public/images/projects/ScriptsOcean/ScriptsOcean2.png";
+import ScriptsOcean3 from "/public/images/projects/ScriptsOcean/ScriptsOcean3.png";
+import ScriptsOcean4 from "/public/images/projects/ScriptsOcean/ScriptsOcean4.png";
+import ScriptsOcean5 from "/public/images/projects/ScriptsOcean/ScriptsOcean5.png";
+import ScriptsOcean6 from "/public/images/projects/ScriptsOcean/ScriptsOcean6.png";
+import ScriptsOcean7 from "/public/images/projects/ScriptsOcean/ScriptsOcean7.png";
+import ScriptsOcean8 from "/public/images/projects/ScriptsOcean/ScriptsOcean8.png";
 
 export {
   ScriptsOcean1,
