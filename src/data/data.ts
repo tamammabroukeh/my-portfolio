@@ -88,9 +88,50 @@ import {
   LandingPage4,
   LandingPage5,
   LandingPage6,
+  ScriptsOcean1,
+  ScriptsOcean2,
+  ScriptsOcean3,
+  ScriptsOcean4,
+  ScriptsOcean5,
+  ScriptsOcean6,
+  ScriptsOcean7,
+  ScriptsOcean8,
 } from "@/assets";
 // let uuid = self.crypto.randomUUID();
 export const projectsData: IProjectData[] = [
+  {
+    id: 14,
+    images: [
+      ScriptsOcean1,
+      ScriptsOcean2,
+      ScriptsOcean3,
+      ScriptsOcean4,
+      ScriptsOcean5,
+      ScriptsOcean6,
+      ScriptsOcean7,
+      ScriptsOcean8,
+    ],
+    name: "Scripts Ocean Website",
+    description:
+      "'SciptsOcean' is software company. This project about building a websites using AI. you can login or signup with google, facebook and credientials. The project contain landing page for the company, admin panel for the admin. owner panel for the owner. The admin panel control to personal website which the user built it. The owner panel control to all admins and all websites. (The project doesn`t finish)",
+    date: new Date("2024-6-5"),
+    skills: [
+      "Next JS",
+      "Next UI",
+      "Rest api",
+      "NextAuth",
+      "TypeScript",
+      "TailwindCSS",
+      "Framer Motion",
+      "next-safe-action",
+      "react-hook-form",
+      "Zod",
+      "Swiper.js",
+    ],
+    links: {
+      demo: "https://xxxyyyyzzz.vercel.app/",
+    },
+  },
   {
     id: 12,
     images: [TSP1, TSP2, TSP3],

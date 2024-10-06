@@ -121,4 +121,5 @@ export type SKILLS =
   | "Next UI"
   | "Node JS"
   | "Express JS"
-  | "Mongo DB";
+  | "Mongo DB"
+  | "next-safe-action";
