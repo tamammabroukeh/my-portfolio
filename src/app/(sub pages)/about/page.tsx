@@ -23,7 +23,7 @@ export default function About() {
             {NAME}
           </h1>
           <p className="font-light text-3xl md:text-4xl text-foreground ">
-            Front-End Next.js & React.js developer
+            MERN stack & Next.js developer
           </p>
         </div>
       </div>
