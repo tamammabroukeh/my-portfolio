@@ -179,6 +179,39 @@ export const projectsData: IProjectData[] = [
     },
   },
   {
+    id: 10,
+    images: [
+      Coponice,
+      Coponice1,
+      Coponice2,
+      Coponice3,
+      Coponice4,
+      Coponice5,
+      Coponice6,
+      Coponice7,
+    ],
+    name: "Coponice Website",
+    description: `'Coponice' is a site that offers discounts on various products and services.
+        Users can search for coupons and special offers from different stores and use them to get discounts when buying online.
+        The site aims to provide opportunities for consumers to save money and get good deals when shopping online.
+        1. Optimizing web pages for maximum speed and scalability.
+        2. Authentication, Authorization and protected pages.
+        3. It is easy to use and manage website through "a control panel".`,
+    date: new Date("2024-03-22"),
+    skills: [
+      "React JS",
+      "Redux",
+      "API",
+      "Material UI",
+      "Formik",
+      "Yup",
+      "Redux toolkit",
+    ],
+    links: {
+      demo: "https://coponice.com/",
+    },
+  },
+  {
     id: 12,
     images: [TSP1, TSP2, TSP3],
     name: "TSP(Travel Salesman Problem) Website",
@@ -220,39 +253,6 @@ export const projectsData: IProjectData[] = [
     links: {
       demo: "https://netflix-app-v1.vercel.app",
       repo: "https://github.com/tamammabroukeh/Netflix-app",
-    },
-  },
-  {
-    id: 10,
-    images: [
-      Coponice,
-      Coponice1,
-      Coponice2,
-      Coponice3,
-      Coponice4,
-      Coponice5,
-      Coponice6,
-      Coponice7,
-    ],
-    name: "Coponice Website",
-    description: `'Coponice' is a site that offers discounts on various products and services.
-        Users can search for coupons and special offers from different stores and use them to get discounts when buying online.
-        The site aims to provide opportunities for consumers to save money and get good deals when shopping online.
-        1. Optimizing web pages for maximum speed and scalability.
-        2. Authentication, Authorization and protected pages.
-        3. It is easy to use and manage website through "a control panel".`,
-    date: new Date("2024-03-22"),
-    skills: [
-      "React JS",
-      "Redux",
-      "API",
-      "Material UI",
-      "Formik",
-      "Yup",
-      "Redux toolkit",
-    ],
-    links: {
-      demo: "https://coponice.com/",
     },
   },
   {
