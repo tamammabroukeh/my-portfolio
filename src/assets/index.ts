@@ -148,15 +148,15 @@ import ScriptsOcean7 from "/public/images/projects/ScriptsOcean/ScriptsOcean7.pn
 import ScriptsOcean8 from "/public/images/projects/ScriptsOcean/ScriptsOcean8.png";
 
 import TaskManagement1 from "/public/images/projects/TaskManagement/TeamManagement1.png";
-import TaskManagement2 from "/public/images/projects/TaskManagement/TeamManagement2.jpg";
-import TaskManagement3 from "/public/images/projects/TaskManagement/TeamManagement3.jpg";
-import TaskManagement4 from "/public/images/projects/TaskManagement/TeamManagement4.jpg";
-import TaskManagement5 from "/public/images/projects/TaskManagement/TeamManagement5.jpg";
-import TaskManagement6 from "/public/images/projects/TaskManagement/TeamManagement6.jpg";
-import TaskManagement7 from "/public/images/projects/TaskManagement/TeamManagement7.jpg";
-import TaskManagement8 from "/public/images/projects/TaskManagement/TeamManagement8.jpg";
-import TaskManagement9 from "/public/images/projects/TaskManagement/TeamManagement9.jpg";
-import TaskManagement10 from "/public/images/projects/TaskManagement/TeamManagement10.jpg";
+import TaskManagement2 from "/public/images/projects/TaskManagement/TeamManagement2.png";
+import TaskManagement3 from "/public/images/projects/TaskManagement/TeamManagement3.png";
+import TaskManagement4 from "/public/images/projects/TaskManagement/TeamManagement4.png";
+import TaskManagement5 from "/public/images/projects/TaskManagement/TeamManagement5.png";
+import TaskManagement6 from "/public/images/projects/TaskManagement/TeamManagement6.png";
+import TaskManagement7 from "/public/images/projects/TaskManagement/TeamManagement7.png";
+import TaskManagement8 from "/public/images/projects/TaskManagement/TeamManagement8.png";
+import TaskManagement9 from "/public/images/projects/TaskManagement/TeamManagement9.png";
+import TaskManagement10 from "/public/images/projects/TaskManagement/TeamManagement10.png";
 
 export {
   TaskManagement1,
