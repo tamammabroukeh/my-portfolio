@@ -147,7 +147,7 @@ import ScriptsOcean6 from "/public/images/projects/ScriptsOcean/ScriptsOcean6.pn
 import ScriptsOcean7 from "/public/images/projects/ScriptsOcean/ScriptsOcean7.png";
 import ScriptsOcean8 from "/public/images/projects/ScriptsOcean/ScriptsOcean8.png";
 
-import TaskManagement1 from "/public/images/projects/TaskManagement/TeamManagement1.jpg";
+import TaskManagement1 from "/public/images/projects/TaskManagement/TeamManagement1.png";
 import TaskManagement2 from "/public/images/projects/TaskManagement/TeamManagement2.jpg";
 import TaskManagement3 from "/public/images/projects/TaskManagement/TeamManagement3.jpg";
 import TaskManagement4 from "/public/images/projects/TaskManagement/TeamManagement4.jpg";
