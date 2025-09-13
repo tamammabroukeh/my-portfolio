@@ -25,8 +25,8 @@ export const BtnList: IBtnList[] = [
   },
   {
     label: "Resume",
-    // link: "/Tammam Mabroukeh Frontend.pdf",
-    link: "/Tammam Mabroukeh MERN stack.pdf",
+    link: "/Tammam Mabroukeh Frontend.pdf",
+    // link: "/Tammam Mabroukeh MERN stack.pdf",
     icon: "resume",
     newTab: true,
   },
