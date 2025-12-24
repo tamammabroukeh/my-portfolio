@@ -1,13 +1,12 @@
-// "use client";
 import React from "react";
-import Image from "next/image";
 import ItemLayout from "@/components/about/ItemLayout";
 import { projectsData } from "@/data/data";
-import { redirect, useRouter } from "next/navigation";
+import { redirect } from "next/navigation";
 import Skills from "@/components/projects/Skills";
 import Date from "@/utils/Date";
 import Links from "@/utils/Links";
 import Typography from "@/utils/Typography";
+import ImageDialog from "@/components/ImageDialog";
 import type { Metadata, ResolvingMetadata } from "next";
 // import Error from "@/app/error";
 type Props = {
@@ -73,14 +72,7 @@ const Projectpage = ({ params }: { params: { projectId: string } }) => {
       <ItemLayout>
         <div className="columns-1 sm:columns-2 lg:columns-3 gap-7 space-y-7">
           {data?.images.map((img, index) => (
-            <Image
-              key={index}
-              className="rounded-xl w-full"
-              src={img}
-              alt={data?.name}
-              priority
-              placeholder="blur"
-            />
+            <ImageDialog key={index} src={img} alt={data?.name} />
           ))}
         </div>
       </ItemLayout>
