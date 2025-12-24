@@ -123,4 +123,5 @@ export type SKILLS =
   | "Express JS"
   | "Mongo DB"
   | "next-safe-action"
-  | "nuqs";
+  | "nuqs"
+  |"Zustand" | "Nest JS";

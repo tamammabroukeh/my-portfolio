@@ -34,6 +34,8 @@ import NextUI from "@/assets/icons/nextui.svg";
 import Nodejs from "@/assets/icons/nodejs.svg";
 import Expressjs from "@/assets/icons/expressjs.svg";
 import MongoDB from "@/assets/icons/mongodb.svg";
+import Zustand from "@/assets/icons/zustand.svg"
+import NestJS from "@/assets/icons/nestjs.svg"
 // Skills
 export {
   Html,
@@ -65,6 +67,7 @@ export {
   Nodejs,
   Expressjs,
   MongoDB,
+  Zustand,NestJS
 };
 // Projects
 // Snap-Up

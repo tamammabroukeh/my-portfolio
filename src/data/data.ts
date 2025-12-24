@@ -30,6 +30,8 @@ import {
   Nodejs,
   Expressjs,
   MongoDB,
+  Zustand,
+  NestJS
 } from "@/assets";
 
 // projects
@@ -531,6 +533,12 @@ export const SkillData: ISkill[] = [
     height: 80,
   },
   {
+    name: "Nest JS",
+    Image: NestJS,
+    width: 80,
+    height: 80,
+  },
+  {
     name: "Mongo DB",
     Image: MongoDB,
     width: 80,
@@ -551,6 +559,12 @@ export const SkillData: ISkill[] = [
   {
     name: "Redux",
     Image: Redux,
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "Zustand",
+    Image: Zustand,
     width: 80,
     height: 80,
   },

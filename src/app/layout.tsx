@@ -32,7 +32,7 @@ export const metadata: Metadata = {
       },
     ],
     type: "website",
-    emails: "tamammb367@gmail.com",
+    emails: "tammammabroukeh@gmail.com",
   },
 };
 export default function RootLayout({ children }: IChildren) {
